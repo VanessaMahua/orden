@@ -1,0 +1,6 @@
+mayor=0
+for i in range(10):
+    d=int(input("Inserte Numero: "))
+    if d>=mayor:
+       mayor=d
+print(mayor)  
